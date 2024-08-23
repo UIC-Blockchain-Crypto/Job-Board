@@ -1,5 +1,9 @@
-# Job-Board
+# Crypto Recruiters in Chicago
+Emily Landon - https://www.linkedin.com/in/thecryptorecruiter/
 
+Ginnette Harvey - https://www.linkedin.com/in/ginnetteharvey/
+
+# Job-Board
 ## Investments
 ### Greenwich or New York
 #### Citadel
