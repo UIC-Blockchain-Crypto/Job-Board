@@ -11,7 +11,11 @@ https://lnkd.in/g_va8vwF
 Azolla Ventures is hiring an intern.
 https://lnkd.in/ggd8sTfP
 
-## Product
+## Product & Operations
+### Remote
+#### Coin Gecko
+Operations Intern
+https://jobs.lever.co/coingecko/cecae530-0cab-403e-ab92-e7e08a4b633f
 
 ## Research
 ### Remote
@@ -39,6 +43,16 @@ https://jobs.smartrecruiters.com/B6/744000005592305-community-marketing-intern-j
 #### IG-Tasty
 Crypto Content Marketing Manager 
 https://www.builtinchicago.org/job/crypto-content-marketing-manager/259554
+
+### Remote
+Growth Marketing Intern
+https://jobs.lever.co/coingecko/12081e6e-dc97-4c38-ae29-d3386786475c
+
+## Sales
+### Remote
+#### Coin Gecko
+Business Development (Ads Sales) Intern
+https://jobs.lever.co/coingecko/947f26c5-a63d-48b6-a1d9-8829bb8359c1
 
 ## Software
 ### Chicago
