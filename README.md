@@ -1,5 +1,11 @@
 # Job-Board
 
+## Investments
+### Greenwich or New York
+#### Citadel
+Investment & Trading – 2025 Intern (US)
+https://www.citadel.com/careers/details/investment-trading-2025-intern-us/
+
 ## VC
 ### Remote
 #### Dorm Room Fund
