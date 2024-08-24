@@ -70,4 +70,6 @@ https://jobs.lever.co/coingecko/947f26c5-a63d-48b6-a1d9-8829bb8359c1
 Software Developer Intern
 https://www.builtinchicago.org/job/software-developer-intern/255289?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
 
-
+# Additional Job Boards
+## UIC Career Center
+https://business.uic.edu/undergraduate-programs/business-career-center/
