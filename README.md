@@ -10,11 +10,21 @@ Ginnette Harvey - https://www.linkedin.com/in/ginnetteharvey/
 Investment & Trading – 2025 Intern (US)
 https://www.citadel.com/careers/details/investment-trading-2025-intern-us/
 
+### Chicago
+#### DRW
+Quantitative Trading Analyst Internship
+https://drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-2900660
+
 ## VC
 ### Remote
 #### Dorm Room Fund
 Dorm Room Fund is hiring student interns.
 https://lnkd.in/g_va8vwF
+
+### Chicago
+#### DRW
+Venture Capital Analyst
+https://drw.com/work-at-drw/listings/venture-capital-analyst-intern-2900700
 
 ### Massachusettes
 #### Azolla Ventures
@@ -26,6 +36,11 @@ https://lnkd.in/ggd8sTfP
 #### Coin Gecko
 Operations Intern
 https://jobs.lever.co/coingecko/cecae530-0cab-403e-ab92-e7e08a4b633f
+
+### Chicago
+#### DRW
+Strategy Internship
+https://drw.com/work-at-drw/listings/strategy-intern-2900631
 
 ## Research
 ### Remote
