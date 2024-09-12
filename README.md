@@ -48,6 +48,10 @@ https://drw.com/work-at-drw/listings/strategy-intern-2900631
 Researcher in Zero Knowledge Protocols Intern
 https://job-boards.greenhouse.io/openmesh/jobs/4145251007?source=web3.career&gh_src=web3.career#application_form
 
+### Remote
+Layer Labs
+https://lillypadjobs.com/openjobs/layerlabs-research-analyst/
+
 ### Singapore
 #### Binance
 Binance Accelerator Program - Macro Research
