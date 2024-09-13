@@ -15,6 +15,11 @@ https://www.citadel.com/careers/details/investment-trading-2025-intern-us/
 Quantitative Trading Analyst Internship
 https://drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-2900660
 
+## Analysis
+### Remote
+#### CoinsPad
+https://app.intropia.io/job/clj71d1lx0000l90887jz9mwr
+
 ## VC
 ### Remote
 #### Dorm Room Fund
